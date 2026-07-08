@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Kngu Flower Shop 🌸</h1>
----
-
+</div>
 ## 📋 Project Overview
 
 **Kngu Flower Shop** is a beautifully designed, fully responsive flower e-commerce website developed as a **company assignment**. It showcases modern web development practices with a clean, elegant, and user-friendly interface.
