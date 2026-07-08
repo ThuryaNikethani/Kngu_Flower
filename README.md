@@ -36,10 +36,10 @@ This project was developed as part of a professional opportunity after my CV was
 ---
 
 ## 📁 Project Structure
-Kngu_Flower/
-├── index.html          # Main webpage
-├── style.css           # All styling and animations
-└── assets/             # Images and resources (if added later)
+ Kngu_Flower/
+ -├── index.html          # Main webpage
+ -├── style.css           # All styling and animations
+ -└── assets/             # Images and resources (if added later)
 
 ---
 
