@@ -7,7 +7,6 @@
 
 **Kngu Flower Shop** is a beautifully designed, fully responsive flower e-commerce website developed as a **company assignment**. It showcases modern web development practices with a clean, elegant, and user-friendly interface.
 
-This project was developed as part of a professional opportunity after my CV was shortlisted through company inquiries. It demonstrates my ability to design and develop professional, visually appealing, and user-friendly web applications while applying modern frontend development practices.
 
 ### ✨ Live Demo
 **[View Live Website](https://knguflowersshop.vercel.app)**
@@ -57,9 +56,10 @@ Kngu_Flower/
 
 ---
 
+
 ## 📌 Assignment Context
 
-This project was developed as part of a **company assignment** given after my CV was shortlisted. It reflects my dedication to delivering high-quality work and attention to detail in web development.
+This project was developed as part of a professional opportunity after my CV was shortlisted through company inquiries. It demonstrates my ability to design and develop professional, visually appealing, and user-friendly web applications while applying modern frontend development practices.
 
 ---
 ## 👤 Author
