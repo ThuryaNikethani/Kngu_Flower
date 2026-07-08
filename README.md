@@ -1,13 +1,5 @@
 <div align="center">
   <h1>Kngu Flower Shop 🌸</h1>
-  <p><strong>A Modern & Elegant Flower E-Commerce Website</strong></p>
-  
-  <img src="https://img.shields.io/badge/HTML-60.6%25-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-39.4%25-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status">
-  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
-</div>
-
 ---
 
 ## 📋 Project Overview
